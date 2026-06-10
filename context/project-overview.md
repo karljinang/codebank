@@ -1,4 +1,4 @@
-# DevStash — Project Overview
+# CodeBank — Project Overview
 
 > **One fast, searchable, AI-enhanced hub for all your dev knowledge & resources.**
 
@@ -34,7 +34,7 @@ Developers scatter their essentials across too many places:
 
 This creates context-switching overhead, lost institutional knowledge, and inconsistent workflows.
 
-**DevStash fixes this with one unified hub.**
+**CodeBank fixes this with one unified hub.**
 
 ---
 

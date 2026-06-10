@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 @AGENTS.md
 
-# DevStash
+# CodeBank
 
 A developer knowledge hub for snippets, commands, prompts, notes, files, images, links and custom types.
 
