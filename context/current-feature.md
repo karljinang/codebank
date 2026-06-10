@@ -18,8 +18,6 @@
 
 <!-- Keep this updated. Earliest to latest -->
 
-### 2026-06-10 — Initial Next.js setup
+### 2026-06-10 -- Initial Next.js setup
 
-- Bootstrapped project with Create Next App (Next.js 16, React 19, TypeScript, Tailwind CSS v4)
-- Configured root layout with Geist fonts and `min-h-full flex flex-col` body
-- Added `CLAUDE.md`, `AGENTS.md`, and `context/` files for project guidance
+Scaffolded Next.js 16 app with React 19, TypeScript, and Tailwind v4; added project context files.
