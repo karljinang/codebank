@@ -1,9 +1,3 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
-@AGENTS.md
-
 # CodeBank
 
 A developer knowledge hub for snippets, commands, prompts, notes, files, images, links and custom types.
@@ -14,7 +8,7 @@ Read the following to get the full context of the project:
 
 - @context/project-overview.md
 - @context/coding-standards.md
-- @context/ai-interation.md
+- @context/ai-interaction.md
 - @context/current-feature.md
 
 ## Commands
@@ -43,3 +37,7 @@ All source lives under `src/app/` (App Router):
 - `layout.tsx` — root layout; sets fonts, `<html lang="en">`, and `<body className="min-h-full flex flex-col">`
 - `page.tsx` — home route (`/`)
 - `globals.css` — only the Tailwind import; no custom variables or base styles
+
+# This is NOT the Next.js you know
+
+This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
